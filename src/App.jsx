@@ -1,3 +1,9 @@
+/*
+ * Site Portal Template
+ * Copyright (C) 2025 26bz (https://26bz.online/)
+ * Licensed under GNU GPLv3 or later. See LICENSE file.
+ */
+
 import React, { useState, useEffect, useRef, lazy, Suspense, useCallback } from 'react';
 import { Facebook, Youtube, Instagram, Map } from 'lucide-react';
 import { FaDiscord } from 'react-icons/fa';

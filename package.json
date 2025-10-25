@@ -1,12 +1,12 @@
 {
   "name": "siteportal",
+  "license": "GPL-3.0-only",
   "author": {
-    "name": "bz",
-    "email": "contact@26bz.online",
-    "url": "https://26bz.online"
+    "name": "26bz",
+    "email": "26bz@proton.me",
+    "url": "https://26bz.online/"
   },
   "private": true,
-  "license": "MIT",
   "version": "1.1.1",
   "type": "module",
   "scripts": {
