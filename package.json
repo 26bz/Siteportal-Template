@@ -7,7 +7,7 @@
     "url": "https://26bz.online/"
   },
   "private": true,
-  "version": "1.1.1",
+  "version": "1.2.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
